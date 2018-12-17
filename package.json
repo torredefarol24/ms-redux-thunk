@@ -2,6 +2,9 @@
   "name": "ms-redux",
   "version": "0.1.0",
   "private": true,
+  "author": "Toufiq (https://twitter.com/burningraven06)",
+  "description" : "React Redux with Thunk Tryout ",
+  "keywords" : ["react","redux","thunk","store","async-dispatch","dispatch"],
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
